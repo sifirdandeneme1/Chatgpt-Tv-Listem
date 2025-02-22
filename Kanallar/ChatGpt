@@ -1,0 +1,102 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="Genel_TRT1" tvg-logo="https://i.ibb.co/n1SCYqN/nowtv.png" group-title="Genel",TRT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://trt.daioncdn.net/trt-1/master_720p.m3u8?app=web
+#EXTINF:-1 tvg-logo="" group-title="Haber", TRT HABER
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/627
+
+#EXTM3U
+#EXTINF:-1 tvg-name="TRT SPOR FHD" tvg-id="Genel_TRT SPOR FHD" tvg-logo="https://i.ibb.co/n1SCYqN/nowtv.png" group-title="Genel",TRT SPOR FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://huhu.to/play/2952828245/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Genel", KANAL D
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/510
+#EXTINF:-1 tvg-logo="" group-title="Genel", SHOW
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/516
+#EXTINF:-1 tvg-logo="" group-title="Genel", ATV
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/521
+#EXTINF:-1 tvg-logo="" group-title="Genel", STAR
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/512
+#EXTINF:-1 tvg-logo="" group-title="Genel", NOW
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/306096
+#EXTINF:-1 tvg-logo="" group-title="Genel", KANAL 7
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/525
+#EXTINF:-1 tvg-logo="" group-title="Haber", NTV
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/668
+#EXTINF:-1 tvg-logo="" group-title="Haber", CNN TÜRK
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/628
+#EXTINF:-1 tvg-logo="" group-title="Haber", HABER TÜRK
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/651
+#EXTINF:-1 tvg-logo="" group-title="Genel", BEYAZ TV
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/524
+#EXTINF:-1 tvg-logo="" group-title="Genel", TV8
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/278465
+#EXTINF:-1 tvg-logo="" group-title="Genel", A2
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/523
+#EXTINF:-1 tvg-logo="" group-title="Genel", TEVE2
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/535
+#EXTINF:-1 tvg-logo="" group-title="Haber", SÖZCÜ TV
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/300436
+#EXTINF:-1 tvg-logo="" group-title="Haber", HALK TV
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/617
+#EXTINF:-1 tvg-logo="" group-title="Haber", HABER GLOBAL
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/652
+#EXTINF:-1 tvg-logo="" group-title="Genel", 360
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/615
+#EXTINF:-1 tvg-logo="" group-title="Belgesel", NAT GEO WILD
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/838
+#EXTINF:-1 tvg-logo="" group-title="Belgesel", NAT GEO
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/278566
+
+#EXTM3U
+#EXTINF:-1 tvg-name="BEIN IZ" tvg-id="Genel_BEIN IZ" tvg-logo="https://i.ibb.co/n1SCYqN/nowtv.png" group-title="Genel",BEIN IZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://huhu.to/play/3156178359/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Yaşam", BEIN GURME
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/1807
+#EXTINF:-1 tvg-logo="" group-title="Belgesel", D MAX
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/1805
+#EXTINF:-1 tvg-logo="" group-title="Belgesel", TLC
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/585
+
+#EXTM3U
+#EXTINF:-1 tvg-name="A SPOR FHD" tvg-id="Genel_A SPOR FHD" tvg-logo="https://i.ibb.co/n1SCYqN/nowtv.png" group-title="Genel",A SPOR FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://huhu.to/play/911836506/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-id="Genel_BEIN SPORTS 1" tvg-logo="https://i.ibb.co/n1SCYqN/nowtv.png" group-title="Genel",BEIN SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://huhu.to/play/300113394/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-name="BEIN SPORTS 2" tvg-id="Genel_BEIN SPORTS 2" tvg-logo="https://i.ibb.co/n1SCYqN/nowtv.png" group-title="Genel",BEIN SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://huhu.to/play/1447241506/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-name="BEIN SPORTS 3" tvg-id="Genel_BEIN SPORTS 3" tvg-logo="https://i.ibb.co/n1SCYqN/nowtv.png" group-title="Genel",BEIN SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://huhu.to/play/1797459602/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-name="BEIN SPORTS 4" tvg-id="Genel_BEIN SPORTS 4" tvg-logo="https://i.ibb.co/n1SCYqN/nowtv.png" group-title="Genel",BEIN SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://huhu.to/play/3640906370/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
